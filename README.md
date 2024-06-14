@@ -44,9 +44,8 @@ This is a simple fullstack project: React as afrontend and ASP.NET API as backen
 <p>
 <strong> at the terminal</strong> you have to navigate to the directory: <br>
   Cd Emedicine-Front <br>
-<p> npm i</p>.
-<p> npm start</p>.
-<br>
+<p> npm i</p>
+<p> npm start</p>
 </p>
 
 
