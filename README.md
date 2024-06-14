@@ -50,6 +50,7 @@ This is a simple fullstack project: React as afrontend and ASP.NET API as backen
 <p> npm i</p>
 <p> npm start</p>
 </p>
+<br>
 
 
 
@@ -64,7 +65,7 @@ after that if there is a need to change the appsettings with the server name you
 Happy Hacking !
 </p>
 
-
+<br>
 
 ## Usage   
 
