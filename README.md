@@ -16,10 +16,12 @@ This is a simple fullstack project: React as afrontend and ASP.NET API as backen
 <p>
 1. install git on your computer from the link https://git-scm.com/downloads <br>
 2.  Clone the repository to your local machine: <br>
-<p> Open a new VS code (for frontend side) in a new folder <br>  </p> 
-<p> Open the terminal <br>  </p> 
-   Bash
+<p> Open a new VS (for backend side) in a new folder <br>  </p> 
+<p> at the sidebar above click on Git, then Clone repository.  <br>  </p> 
    <br>
+   <p> pick a location folder and then paste the path.  <br>  </p> 
+<br>
+   put this on the URL of Git
    git clone -b master https://github.com/sultan-nassar/CardAppFinalProject.git <br>
  <br>
 <p>
