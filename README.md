@@ -18,7 +18,7 @@ This is a simple fullstack project: React as afrontend and ASP.NET API as backen
 2.  Clone the repository to your local machine: <br>
    
  
-   ##for backend side
+   ## for backend side
    
 <p> Open a new VS (for backend side) in a new folder <br>  </p> 
 <p> at the sidebar above click on Git, then Clone repository.  <br>  </p> 
@@ -32,7 +32,7 @@ This is a simple fullstack project: React as afrontend and ASP.NET API as backen
 <br>
 </p>
 
-##for frontend side
+## for frontend side
 
 <p> Open a new VS (for frontend side) in a new folder <br>  </p> 
 <p> Open the terminal <br>  </p> 
