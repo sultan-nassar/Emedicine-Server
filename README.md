@@ -17,6 +17,7 @@ This is a simple fullstack project: React as afrontend and ASP.NET API as backen
 1. install git on your computer from the link https://git-scm.com/downloads <br>
 2.  Clone the repository to your local machine: <br>
    
+
  
 ### for backend side
    
@@ -31,6 +32,8 @@ This is a simple fullstack project: React as afrontend and ASP.NET API as backen
 <p> run the Project<br>  </p> 
 <br>
 </p>
+
+
 
 ### for frontend side
 
@@ -48,10 +51,12 @@ This is a simple fullstack project: React as afrontend and ASP.NET API as backen
 <p> npm start</p>
 </p>
 
+
+
 ### for DBSQL SERVER
-   
+
 <p> Open the Script of the SQL which attached to the asignment (hackampus) in a new query <br>  </p> 
-<p> at the sidebar above click on master DB, then Run Step 1 and <U>Step</U> 2 of the Script. <br>  </p> 
+<p> at the sidebar above click on master DB, then Run <u>Step 1 </u> and Step 2 of the Script. <br>  </p> 
    <br>
    <p> pick a location folder and then paste the path.  </p> 
 <br>
