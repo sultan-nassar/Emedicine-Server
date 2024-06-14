@@ -34,11 +34,12 @@ This is a simple fullstack project: React as afrontend and ASP.NET API as backen
 
 ### for frontend side
 
-<p> Open a new VS (for frontend side) in a new folder <br>  </p> 
-<p> Open the terminal <br>  </p> 
+<p> Open a new VS code (for frontend side)<br>  </p> 
+<p> at the welcome page, click on Clone Git repository.  <br>  </p> 
    <br>
-    clone the git link:   https://github.com/sultan-nassar/CardAppFinalProject.git <br>
+    put the git link:   https://github.com/sultan-nassar/CardAppFinalProject.git <br>
  <br>
+    <p> pick a location folder and then press ok.  </p> 
 <p>
 <strong> at the terminal</strong> you have to navigate to the directory: <br>
   Cd server-card-sultan <br>
