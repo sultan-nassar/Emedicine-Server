@@ -48,6 +48,19 @@ This is a simple fullstack project: React as afrontend and ASP.NET API as backen
 <p> npm start</p>
 </p>
 
+### for DBSQL SERVER
+   
+<p> Open the Script of the SQL which attached to the asignment (hackampus) in a new query <br>  </p> 
+<p> at the sidebar above click on master DB, then Run Step 1 and <U>Step</U> 2 of the Script. <br>  </p> 
+   <br>
+   <p> pick a location folder and then paste the path.  </p> 
+<br>
+   put this on the URL of Git
+   https://github.com/sultan-nassar/Emedicine-Server.git  <br>
+<p>
+<p> run the Project<br>  </p> 
+<br>
+</p>
 
 
 ## Usage   
