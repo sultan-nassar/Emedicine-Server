@@ -10,6 +10,7 @@ This is a simple fullstack project: React as afrontend and ASP.NET API as backen
 - An Order list that will show your orders which you have purchased.
 - Pages to manage Allproduct by CRUD actions and buying options by add to Cart.
 - Search Bar and filter option in products page which help you to find the specific product you're looking for.
+- every Order which you have purchased has a status and it is waiting for admin approved, reject...etc
 
 ## Installation
 <p>
