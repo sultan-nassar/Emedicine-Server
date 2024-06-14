@@ -22,11 +22,11 @@ This is a simple fullstack project: React as afrontend and ASP.NET API as backen
 <p> Open a new VS (for backend side) in a new folder <br>  </p> 
 <p> at the sidebar above click on Git, then Clone repository.  <br>  </p> 
    <br>
-   <p> pick a location folder and then paste the path.  <br>  </p> 
+   <p> pick a location folder and then paste the path.  </p> 
 <br>
    put this on the URL of Git
    https://github.com/sultan-nassar/Emedicine-Server.git  <br>
- <br>
+
 <p>
 <strong> <br>
 <br>
