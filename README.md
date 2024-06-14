@@ -45,12 +45,12 @@ This is a simple fullstack project: React as afrontend and ASP.NET API as backen
 
 ## Usage   
 
-1. Open your web browser and visit `http://localhost:3001` to access the application.
-2. New User? Go to http://localhost:3001/Registration and Enter your personal information in the input fields provided to register the website. 
+1. Open your web browser and visit `http://localhost:3000` to access the application.
+2. New User? Go to http://localhost:3000/Registration and Enter your personal information in the input fields provided to register the website. 
 3. Already have a user? Go to http://localhost:3000 and enter your user and password.
    <br>
-4. <strong> first of all, you must register as an <strong>admin</strong> so you can add medicine or supplements with image, add user, adjust order etc...</strong>
-   To register as an admin you must write:
+4. <strong> first of all, you must login as an <strong>admin</strong> so you can add medicine or supplements with image, edit or delete medicines, approve user's orders status and more...</strong>
+   To login as an admin you must write:
    #### <strong> email: admin </strong>
    #### <strong> password: admin </strong>
    after login as an admin you can visit:
