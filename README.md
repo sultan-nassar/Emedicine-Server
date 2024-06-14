@@ -54,7 +54,7 @@ This is a simple fullstack project: React as afrontend and ASP.NET API as backen
    #### <strong> email: admin@gmail.com </strong>
    #### <strong> password: admin123 </strong>
    
-  after login as an admin you can visit:</strong>
+  <strong>after login as an admin you can visit:</strong>
 - Medicine Master: her you can add, edit, delete supplements and medicines for your site.
 - User List: her you can see User's List, also you can see all the users whith there Status.
 - Order List: her you can see order List, also you can update the status of the regular user's order to approved or rejected....
@@ -67,7 +67,7 @@ This is a simple fullstack project: React as afrontend and ASP.NET API as backen
    
    OR you can make a register before her: http://localhost:3000/registration
    
-  after login as a regular user you can visit:</strong>
+  <strong>after login as a regular user you can visit:</strong>
 - profile: her you can see your personal data.
 - Products: her you can see all the products which the Admin has been added to the site, so you can buy suitable quantity from each product.
 - My Orders: her you can see your orders, also you can see the status of the order if has been approved or rejected by the admin....
