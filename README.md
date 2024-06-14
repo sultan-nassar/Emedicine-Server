@@ -28,7 +28,7 @@ This is a simple fullstack project: React as afrontend and ASP.NET API as backen
    put this on the URL of Git
    https://github.com/sultan-nassar/Emedicine-Server.git  <br>
 <p>
-<strong> <br>
+<p> run the Project<br>  </p> 
 <br>
 </p>
 
@@ -44,6 +44,8 @@ This is a simple fullstack project: React as afrontend and ASP.NET API as backen
 <p>
 <strong> at the terminal</strong> you have to navigate to the directory: <br>
   Cd Emedicine-Front <br>
+   - npm i
+   - npm start
 <br>
 </p>
 
