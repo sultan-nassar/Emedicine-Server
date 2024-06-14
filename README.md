@@ -1,6 +1,6 @@
 # Sultan Nassar EmedicineServer 
 
-This is a simple fullstack project: React as afrontend and ASP.NET API as backend that allows you to create, Edit Delete and display products. It provides a user-friendly interface for entering order information and generates a visually appealing product cart.
+This is a simple fullstack project: React as afrontend and ASP.NET API as backend which connected to SQl DB. this project allows you to create, Edit Delete and display products. It provides a user-friendly interface for entering order information and generates a visually appealing product cart.
 
 ## Features
 
