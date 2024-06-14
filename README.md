@@ -56,18 +56,8 @@ This is a simple fullstack project: React as afrontend and ASP.NET API as backen
 2. New User? Go to http://localhost:3000/registration and Enter your personal information in the input fields provided to register the website. 
 3. Already have a user? Go to http://localhost:3000/login and enter your user and password.
    <br>
-4. <strong> first of all, you must login as an <strong>admin</strong> so you can add medicine or supplements with image, edit or delete medicines, approve user's orders status and more...</strong>
-   To login as an admin you must write:
-   #### <strong> email: admin@gmail.com </strong>
-   #### <strong> password: admin123 </strong>
    
-  <strong>after login as an admin you can visit:</strong>
-- Medicine Master: her you can add, edit, delete supplements and medicines for your site.
-- User List: her you can see User's List, also you can see all the users whith there Status.
-- Order List: her you can see order List, also you can update the status of the regular user's order to approved or rejected....
-- Products: her you can see all the Products and you can also use filter or search to look for a specific product.
-
-5. <strong> second of all, you should login as a <strong>regular user</strong>.
+4. <strong> second of all, you should login as a <strong>regular user</strong>.
    To login as a regular user you must write:
    #### <strong> email: test@gmail.com </strong>
    #### <strong> password: 1234567 </strong>
@@ -79,6 +69,18 @@ This is a simple fullstack project: React as afrontend and ASP.NET API as backen
 - Products: her you can see all the products which the Admin has been added to the site, so you can buy suitable quantity from each product.
 - My Orders: her you can see your orders, also you can see the status of the order if has been approved or rejected by the admin....
 - Cart: her you can see your Cart, also you can delete product or place order, so the admin can see this and he will update the status of the order per regular user.
+
+
+5. <strong> second, you must login as an <strong>admin</strong> so you can add medicine or supplements with image, edit or delete medicines, approve user's orders status and more...</strong>
+   To login as an admin you must write:
+   #### <strong> email: admin@gmail.com </strong>
+   #### <strong> password: admin123 </strong>
+   
+  <strong>after login as an admin you can visit:</strong>
+- Medicine Master: her you can add, edit, delete supplements and medicines for your site.
+- User List: her you can see User's List, also you can see all the users whith there Status.
+- Order List: her you can see order List, also you can update the status of the regular user's order to approved or rejected....
+- Products: her you can see all the Products and you can also use filter or search to look for a specific product.
 
 
 
