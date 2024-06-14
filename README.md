@@ -37,12 +37,13 @@ This is a simple fullstack project: React as afrontend and ASP.NET API as backen
 <p> Open a new VS code (for frontend side)<br>  </p> 
 <p> at the welcome page, click on Clone Git repository.  <br>  </p> 
    <br>
-    put the git link:   https://github.com/sultan-nassar/CardAppFinalProject.git <br>
+   put this on the URL of Git
+    https://github.com/sultan-nassar/Emedicine-Front.git  <br>
  <br>
     <p> pick a location folder and then press ok.  </p> 
 <p>
 <strong> at the terminal</strong> you have to navigate to the directory: <br>
-  Cd server-card-sultan <br>
+  Cd Emedicine-Front <br>
 <br>
 </p>
 
