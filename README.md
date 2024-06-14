@@ -53,7 +53,8 @@ This is a simple fullstack project: React as afrontend and ASP.NET API as backen
    To login as an admin you must write:
    #### <strong> email: admin@gmail.com </strong>
    #### <strong> password: admin123 </strong>
-   after login as an admin you can visit:
+   
+  after login as an admin you can visit:</strong>
 - Medicine Master: her you can add, edit, delete supplements and medicines for your site.
 - User List: her you can see User's List, also you can see all the users whith there Status.
 - Order List: her you can see order List, also you can update the status of the regular user's order to approved or rejected....
