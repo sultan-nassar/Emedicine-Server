@@ -58,13 +58,11 @@ This is a simple fullstack project: React as afrontend and ASP.NET API as backen
 <p> Open the Script of the SQL which attached to the asignment (hackampus) in a new query <br>  </p> 
 <p> at the sidebar above click on master DB, then Run <strong>Step 1 </strong> and <strong> Step 2</strong> of the Script. <br>  </p> 
    <br>
-   <p> pick a location folder and then paste the path.  </p> 
+   <p> make some command in anew query like SELECT * from USERS to see the users and there password so you can login with the default users.  </p> 
 <br>
-   put this on the URL of Git
-   https://github.com/sultan-nassar/Emedicine-Server.git  <br>
-<p>
-<p> run the Project<br>  </p> 
+after that if there is a need to change the appsettings with the server name you can enter sql server name which you can see in the properties of sql manegment studio. <br>
 <br>
+Happy Hacking !
 </p>
 
 
