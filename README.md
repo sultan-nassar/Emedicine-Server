@@ -56,7 +56,7 @@ This is a simple fullstack project: React as afrontend and ASP.NET API as backen
 ### for DBSQL SERVER
 
 <p> Open the Script of the SQL which attached to the asignment (hackampus) in a new query <br>  </p> 
-<p> at the sidebar above click on master DB, then Run <u>Step 1 </u> and Step 2 of the Script. <br>  </p> 
+<p> at the sidebar above click on master DB, then Run <u>Step 1 </strong> and <strong> Step 2<strong/> of the Script. <br>  </p> 
    <br>
    <p> pick a location folder and then paste the path.  </p> 
 <br>
@@ -66,6 +66,7 @@ This is a simple fullstack project: React as afrontend and ASP.NET API as backen
 <p> run the Project<br>  </p> 
 <br>
 </p>
+
 
 
 ## Usage   
